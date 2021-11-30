@@ -1,0 +1,19 @@
+{
+  "name": "@jdurtsc/package-test-1",
+  "version": "0.0.1",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdurtsc/package-test-1.git"
+  },
+  "author": "jdurtsc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdurtsc/package-test-1/issues"
+  },
+  "homepage": "https://github.com/jdurtsc/package-test-1#readme"
+}
