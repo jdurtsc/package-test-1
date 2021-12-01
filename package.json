@@ -1,6 +1,6 @@
 {
   "name": "@jdurtsc/package-test-1",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "Test",
   "main": "index.js",
   "scripts": {
