@@ -1,6 +1,6 @@
 {
   "name": "@jdurtsc/package-test-1",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Test",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdurtsc/package-test-1/issues"
   },
-  "homepage": "https://github.com/jdurtsc/package-test-1#readme"
+  "homepage": "https://github.com/jdurtsc/package-test-1#readme",
+  "publishConfig": {
+    "@jdurtsc:registry": "https://npm.pkg.github.com"
+  }
 }
